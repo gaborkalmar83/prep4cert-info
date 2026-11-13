@@ -201,6 +201,375 @@
     "q-5.2.json"
    ]
   },
+  "az-104": {
+   "version": "3a23ea3fa98a60d2",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "az-140": {
+   "version": "fe4b63f7d8bfd387",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json"
+   ]
+  },
+  "az-305": {
+   "version": "0c9758a56d3a05e8",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json"
+   ]
+  },
+  "az-400": {
+   "version": "a792f422f1600edc",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-3.5.json",
+    "q-3.6.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "az-700": {
+   "version": "315354ebaa8130cc",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-5.3.json"
+   ]
+  },
+  "az-802": {
+   "version": "0ce5c323cb112ebd",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-5.3.json",
+    "q-6.1.json",
+    "q-6.2.json",
+    "q-7.1.json",
+    "q-7.2.json",
+    "q-7.3.json"
+   ]
+  },
+  "az-900": {
+   "version": "31a847d3e0a4b95e",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json"
+   ]
+  },
+  "dp-300": {
+   "version": "0c90d0f7bd138ccd",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-5.3.json"
+   ]
+  },
+  "dp-420": {
+   "version": "b7565bac52d4b420",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json"
+   ]
+  },
+  "dp-600": {
+   "version": "890662073c9d2fd4",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json"
+   ]
+  },
+  "dp-700": {
+   "version": "1600df159852d3f3",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json"
+   ]
+  },
+  "dp-750": {
+   "version": "634d347a95714a38",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json"
+   ]
+  },
+  "dp-800": {
+   "version": "8a2753143f8b563e",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json"
+   ]
+  },
+  "dp-900": {
+   "version": "92b7764667931e7c",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json"
+   ]
+  },
+  "gh-100": {
+   "version": "4adf37b4e4a49b0f",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "gh-200": {
+   "version": "bc74ddccde2ffab0",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "gh-300": {
+   "version": "562d16d43bfde413",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-6.1.json",
+    "q-6.2.json"
+   ]
+  },
+  "gh-500": {
+   "version": "cc77ede8529abb22",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-5.3.json",
+    "q-5.4.json",
+    "q-5.5.json",
+    "q-6.1.json",
+    "q-6.2.json",
+    "q-6.3.json",
+    "q-6.4.json"
+   ]
+  },
+  "gh-900": {
+   "version": "340918aa80bb9e78",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-3.1.json",
+    "q-4.1.json",
+    "q-5.1.json",
+    "q-6.1.json",
+    "q-7.1.json"
+   ]
+  },
   "int-ai-engineer": {
    "version": "8b677f04085ddd71",
    "files": [
@@ -263,6 +632,331 @@
     "q-4.2.json",
     "q-5.1.json",
     "q-5.2.json"
+   ]
+  },
+  "mb-230": {
+   "version": "c87f184f9812735c",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json"
+   ]
+  },
+  "mb-310": {
+   "version": "846acedc77741b0e",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-1.6.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "mb-330": {
+   "version": "18460dea9f9496b9",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "mb-500": {
+   "version": "40e196a277284436",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-5.3.json",
+    "q-6.1.json",
+    "q-6.2.json",
+    "q-6.3.json",
+    "q-6.4.json",
+    "q-7.1.json",
+    "q-7.2.json",
+    "q-7.3.json"
+   ]
+  },
+  "mb-800": {
+   "version": "37908b20d55ea088",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-2.5.json",
+    "q-2.6.json",
+    "q-2.7.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json",
+    "q-4.5.json",
+    "q-4.6.json",
+    "q-4.7.json"
+   ]
+  },
+  "mb-820": {
+   "version": "d03a27814a6a27b3",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-3.5.json",
+    "q-3.6.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-5.1.json",
+    "q-5.2.json",
+    "q-6.1.json",
+    "q-6.2.json"
+   ]
+  },
+  "md-102": {
+   "version": "3e0ba50d1da89ae4",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "ms-700": {
+   "version": "c76440c54bbe5b43",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-1.5.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json"
+   ]
+  },
+  "ms-721": {
+   "version": "977c092b0ad79d19",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-3.5.json",
+    "q-3.6.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json",
+    "q-4.5.json"
+   ]
+  },
+  "pl-300": {
+   "version": "01eab5759d8bcdc4",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-4.1.json",
+    "q-4.2.json"
+   ]
+  },
+  "pl-900": {
+   "version": "a26d52a373ab9283",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "sc-100": {
+   "version": "c893f56e9d82cab0",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json"
+   ]
+  },
+  "sc-200": {
+   "version": "c749294c3808afd6",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json"
+   ]
+  },
+  "sc-300": {
+   "version": "b8278a864819fed8",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-1.4.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json"
+   ]
+  },
+  "sc-401": {
+   "version": "46600cf06f468f1f",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-1.3.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json"
+   ]
+  },
+  "sc-900": {
+   "version": "c336634a25dad043",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-2.3.json",
+    "q-2.4.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-3.3.json",
+    "q-3.4.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-4.3.json",
+    "q-4.4.json"
    ]
   }
  }
