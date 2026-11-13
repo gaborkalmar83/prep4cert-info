@@ -200,6 +200,70 @@
     "q-5.1.json",
     "q-5.2.json"
    ]
+  },
+  "int-ai-engineer": {
+   "version": "8b677f04085ddd71",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "int-cloud-engineer": {
+   "version": "7a8f1cb669ea2a34",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "int-software-developer": {
+   "version": "138b298e0b5a897c",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
+  },
+  "int-solution-architect": {
+   "version": "7c596b154c49cca0",
+   "files": [
+    "exam.json",
+    "q-1.1.json",
+    "q-1.2.json",
+    "q-2.1.json",
+    "q-2.2.json",
+    "q-3.1.json",
+    "q-3.2.json",
+    "q-4.1.json",
+    "q-4.2.json",
+    "q-5.1.json",
+    "q-5.2.json"
+   ]
   }
  }
 }

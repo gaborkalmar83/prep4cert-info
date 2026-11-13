@@ -1,58 +1,457 @@
 {
   "brands": [
-    { "id": "microsoft", "name": "Microsoft", "tagline": "Azure, AI, Microsoft 365, Dynamics 365, Power Platform, Security and GitHub" },
-    { "id": "togaf", "name": "TOGAF", "tagline": "Enterprise architecture certifications from The Open Group" }
+    {
+      "id": "interview",
+      "name": "Job interviews",
+      "tagline": "Free practice for technical job interviews"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "tagline": "Azure, AI, Microsoft 365, Dynamics 365, Power Platform, Security and GitHub"
+    },
+    {
+      "id": "togaf",
+      "name": "TOGAF",
+      "tagline": "Enterprise architecture certifications from The Open Group"
+    }
   ],
   "exams": [
-    { "id": "ab-730", "brand": "microsoft", "family": "AI Business", "code": "AB-730", "title": "AI Business Professional", "level": "Fundamentals" },
-    { "id": "ab-731", "brand": "microsoft", "family": "AI Business", "code": "AB-731", "title": "AI Transformation Leader", "level": "Fundamentals" },
-    { "id": "ab-900", "brand": "microsoft", "family": "AI Business", "code": "AB-900", "title": "Copilot and Agent Administration Fundamentals", "level": "Fundamentals" },
-    { "id": "ab-100", "brand": "microsoft", "family": "AI Business", "code": "AB-100", "title": "Agentic AI Business Solutions Architect", "level": "Expert" },
-    { "id": "ab-620", "brand": "microsoft", "family": "AI Business", "code": "AB-620", "title": "AI Agent Builder Associate", "level": "Associate" },
-    { "id": "ab-410", "brand": "microsoft", "family": "AI Business", "code": "AB-410", "title": "Intelligent Applications Builder Associate", "level": "Associate" },
-    { "id": "ab-400", "brand": "microsoft", "family": "AI Business", "code": "AB-400", "title": "Power Platform Developer Associate", "level": "Associate" },
-    { "id": "ab-210", "brand": "microsoft", "family": "AI Business", "code": "AB-210", "title": "Dynamics 365 Sales AI Consultant Associate", "level": "Associate" },
-    { "id": "ab-250", "brand": "microsoft", "family": "AI Business", "code": "AB-250", "title": "Dynamics 365 Contact Center AI Engineer Associate", "level": "Associate" },
-    { "id": "ai-103", "brand": "microsoft", "family": "Azure AI", "code": "AI-103", "title": "Azure AI Apps and Agents Developer Associate", "level": "Associate" },
-    { "id": "ai-200", "brand": "microsoft", "family": "Azure AI", "code": "AI-200", "title": "Azure AI Cloud Developer Associate", "level": "Associate" },
-    { "id": "ai-300", "brand": "microsoft", "family": "Azure AI", "code": "AI-300", "title": "Operationalizing Machine Learning and Generative AI Solutions", "level": "Associate" },
-    { "id": "az-900", "brand": "microsoft", "family": "Azure", "code": "AZ-900", "title": "Microsoft Azure Fundamentals", "level": "Fundamentals" },
-    { "id": "az-104", "brand": "microsoft", "family": "Azure", "code": "AZ-104", "title": "Microsoft Azure Administrator", "level": "Associate" },
-    { "id": "az-305", "brand": "microsoft", "family": "Azure", "code": "AZ-305", "title": "Designing Microsoft Azure Infrastructure Solutions", "level": "Expert" },
-    { "id": "az-400", "brand": "microsoft", "family": "Azure", "code": "AZ-400", "title": "Designing and Implementing Microsoft DevOps Solutions", "level": "Expert" },
-    { "id": "az-700", "brand": "microsoft", "family": "Azure", "code": "AZ-700", "title": "Designing and Implementing Azure Networking Solutions", "level": "Associate" },
-    { "id": "az-140", "brand": "microsoft", "family": "Azure", "code": "AZ-140", "title": "Configuring and Operating Azure Virtual Desktop", "level": "Specialty" },
-    { "id": "az-802", "brand": "microsoft", "family": "Azure", "code": "AZ-802", "title": "Windows Server Hybrid Administrator Associate", "level": "Associate" },
-    { "id": "dp-900", "brand": "microsoft", "family": "Data", "code": "DP-900", "title": "Microsoft Azure Data Fundamentals", "level": "Fundamentals" },
-    { "id": "dp-300", "brand": "microsoft", "family": "Data", "code": "DP-300", "title": "Administering Microsoft Azure SQL Solutions", "level": "Associate" },
-    { "id": "dp-420", "brand": "microsoft", "family": "Data", "code": "DP-420", "title": "Azure Cosmos DB Developer Specialty", "level": "Specialty" },
-    { "id": "dp-600", "brand": "microsoft", "family": "Data", "code": "DP-600", "title": "Implementing Analytics Solutions Using Microsoft Fabric", "level": "Associate" },
-    { "id": "dp-700", "brand": "microsoft", "family": "Data", "code": "DP-700", "title": "Fabric Data Engineer Associate", "level": "Associate" },
-    { "id": "dp-750", "brand": "microsoft", "family": "Data", "code": "DP-750", "title": "Azure Databricks Data Engineer Associate", "level": "Associate" },
-    { "id": "dp-800", "brand": "microsoft", "family": "Data", "code": "DP-800", "title": "SQL AI Developer Associate", "level": "Associate" },
-    { "id": "sc-900", "brand": "microsoft", "family": "Security", "code": "SC-900", "title": "Security, Compliance, and Identity Fundamentals", "level": "Fundamentals" },
-    { "id": "sc-200", "brand": "microsoft", "family": "Security", "code": "SC-200", "title": "Microsoft Security Operations Analyst", "level": "Associate" },
-    { "id": "sc-300", "brand": "microsoft", "family": "Security", "code": "SC-300", "title": "Microsoft Identity and Access Administrator", "level": "Associate" },
-    { "id": "sc-401", "brand": "microsoft", "family": "Security", "code": "SC-401", "title": "Information Security Administrator Associate", "level": "Associate" },
-    { "id": "sc-100", "brand": "microsoft", "family": "Security", "code": "SC-100", "title": "Microsoft Cybersecurity Architect", "level": "Expert" },
-    { "id": "pl-900", "brand": "microsoft", "family": "Power Platform", "code": "PL-900", "title": "Microsoft Power Platform Fundamentals", "level": "Fundamentals" },
-    { "id": "pl-300", "brand": "microsoft", "family": "Power Platform", "code": "PL-300", "title": "Microsoft Power BI Data Analyst", "level": "Associate" },
-    { "id": "md-102", "brand": "microsoft", "family": "Microsoft 365", "code": "MD-102", "title": "Endpoint Administrator", "level": "Associate" },
-    { "id": "ms-700", "brand": "microsoft", "family": "Microsoft 365", "code": "MS-700", "title": "Managing Microsoft Teams", "level": "Associate" },
-    { "id": "ms-721", "brand": "microsoft", "family": "Microsoft 365", "code": "MS-721", "title": "Collaboration Communications Systems Engineer", "level": "Associate" },
-    { "id": "gh-900", "brand": "microsoft", "family": "GitHub", "code": "GH-900", "title": "GitHub Foundations", "level": "Fundamentals" },
-    { "id": "gh-100", "brand": "microsoft", "family": "GitHub", "code": "GH-100", "title": "GitHub Administration", "level": "Associate" },
-    { "id": "gh-200", "brand": "microsoft", "family": "GitHub", "code": "GH-200", "title": "GitHub Actions", "level": "Associate" },
-    { "id": "gh-300", "brand": "microsoft", "family": "GitHub", "code": "GH-300", "title": "GitHub Copilot", "level": "Associate" },
-    { "id": "gh-500", "brand": "microsoft", "family": "GitHub", "code": "GH-500", "title": "GitHub Advanced Security", "level": "Associate" },
-    { "id": "mb-230", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-230", "title": "Dynamics 365 Customer Service Functional Consultant", "level": "Associate" },
-    { "id": "mb-310", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-310", "title": "Dynamics 365 Finance Functional Consultant", "level": "Associate" },
-    { "id": "mb-330", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-330", "title": "Dynamics 365 Supply Chain Management Functional Consultant", "level": "Associate" },
-    { "id": "mb-500", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-500", "title": "Dynamics 365 Finance and Operations Apps Developer", "level": "Associate" },
-    { "id": "mb-800", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-800", "title": "Dynamics 365 Business Central Functional Consultant", "level": "Associate" },
-    { "id": "mb-820", "brand": "microsoft", "family": "Dynamics 365", "code": "MB-820", "title": "Dynamics 365 Business Central Developer", "level": "Associate" },
-    { "id": "togaf-ea-foundation", "brand": "togaf", "family": "TOGAF Standard, 10th Edition", "code": "OGEA-101", "title": "TOGAF Enterprise Architecture Foundation (Part 1)", "level": "Foundation" },
-    { "id": "togaf-ea-practitioner", "brand": "togaf", "family": "TOGAF Standard, 10th Edition", "code": "OGEA-102", "title": "TOGAF Enterprise Architecture Practitioner (Part 2)", "level": "Practitioner" },
-    { "id": "togaf-bafe", "brand": "togaf", "family": "TOGAF Standard, 10th Edition", "code": "OGBA-101", "title": "TOGAF Business Architecture Foundation", "level": "Foundation" }
+    {
+      "id": "ab-730",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-730",
+      "title": "AI Business Professional",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "ab-731",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-731",
+      "title": "AI Transformation Leader",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "ab-900",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-900",
+      "title": "Copilot and Agent Administration Fundamentals",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "ab-100",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-100",
+      "title": "Agentic AI Business Solutions Architect",
+      "level": "Expert"
+    },
+    {
+      "id": "ab-620",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-620",
+      "title": "AI Agent Builder Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ab-410",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-410",
+      "title": "Intelligent Applications Builder Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ab-400",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-400",
+      "title": "Power Platform Developer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ab-210",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-210",
+      "title": "Dynamics 365 Sales AI Consultant Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ab-250",
+      "brand": "microsoft",
+      "family": "AI Business",
+      "code": "AB-250",
+      "title": "Dynamics 365 Contact Center AI Engineer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ai-103",
+      "brand": "microsoft",
+      "family": "Azure AI",
+      "code": "AI-103",
+      "title": "Azure AI Apps and Agents Developer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ai-200",
+      "brand": "microsoft",
+      "family": "Azure AI",
+      "code": "AI-200",
+      "title": "Azure AI Cloud Developer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "ai-300",
+      "brand": "microsoft",
+      "family": "Azure AI",
+      "code": "AI-300",
+      "title": "Operationalizing Machine Learning and Generative AI Solutions",
+      "level": "Associate"
+    },
+    {
+      "id": "az-900",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-900",
+      "title": "Microsoft Azure Fundamentals",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "az-104",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-104",
+      "title": "Microsoft Azure Administrator",
+      "level": "Associate"
+    },
+    {
+      "id": "az-305",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-305",
+      "title": "Designing Microsoft Azure Infrastructure Solutions",
+      "level": "Expert"
+    },
+    {
+      "id": "az-400",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-400",
+      "title": "Designing and Implementing Microsoft DevOps Solutions",
+      "level": "Expert"
+    },
+    {
+      "id": "az-700",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-700",
+      "title": "Designing and Implementing Azure Networking Solutions",
+      "level": "Associate"
+    },
+    {
+      "id": "az-140",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-140",
+      "title": "Configuring and Operating Azure Virtual Desktop",
+      "level": "Specialty"
+    },
+    {
+      "id": "az-802",
+      "brand": "microsoft",
+      "family": "Azure",
+      "code": "AZ-802",
+      "title": "Windows Server Hybrid Administrator Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "dp-900",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-900",
+      "title": "Microsoft Azure Data Fundamentals",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "dp-300",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-300",
+      "title": "Administering Microsoft Azure SQL Solutions",
+      "level": "Associate"
+    },
+    {
+      "id": "dp-420",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-420",
+      "title": "Azure Cosmos DB Developer Specialty",
+      "level": "Specialty"
+    },
+    {
+      "id": "dp-600",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-600",
+      "title": "Implementing Analytics Solutions Using Microsoft Fabric",
+      "level": "Associate"
+    },
+    {
+      "id": "dp-700",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-700",
+      "title": "Fabric Data Engineer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "dp-750",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-750",
+      "title": "Azure Databricks Data Engineer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "dp-800",
+      "brand": "microsoft",
+      "family": "Data",
+      "code": "DP-800",
+      "title": "SQL AI Developer Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "sc-900",
+      "brand": "microsoft",
+      "family": "Security",
+      "code": "SC-900",
+      "title": "Security, Compliance, and Identity Fundamentals",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "sc-200",
+      "brand": "microsoft",
+      "family": "Security",
+      "code": "SC-200",
+      "title": "Microsoft Security Operations Analyst",
+      "level": "Associate"
+    },
+    {
+      "id": "sc-300",
+      "brand": "microsoft",
+      "family": "Security",
+      "code": "SC-300",
+      "title": "Microsoft Identity and Access Administrator",
+      "level": "Associate"
+    },
+    {
+      "id": "sc-401",
+      "brand": "microsoft",
+      "family": "Security",
+      "code": "SC-401",
+      "title": "Information Security Administrator Associate",
+      "level": "Associate"
+    },
+    {
+      "id": "sc-100",
+      "brand": "microsoft",
+      "family": "Security",
+      "code": "SC-100",
+      "title": "Microsoft Cybersecurity Architect",
+      "level": "Expert"
+    },
+    {
+      "id": "pl-900",
+      "brand": "microsoft",
+      "family": "Power Platform",
+      "code": "PL-900",
+      "title": "Microsoft Power Platform Fundamentals",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "pl-300",
+      "brand": "microsoft",
+      "family": "Power Platform",
+      "code": "PL-300",
+      "title": "Microsoft Power BI Data Analyst",
+      "level": "Associate"
+    },
+    {
+      "id": "md-102",
+      "brand": "microsoft",
+      "family": "Microsoft 365",
+      "code": "MD-102",
+      "title": "Endpoint Administrator",
+      "level": "Associate"
+    },
+    {
+      "id": "ms-700",
+      "brand": "microsoft",
+      "family": "Microsoft 365",
+      "code": "MS-700",
+      "title": "Managing Microsoft Teams",
+      "level": "Associate"
+    },
+    {
+      "id": "ms-721",
+      "brand": "microsoft",
+      "family": "Microsoft 365",
+      "code": "MS-721",
+      "title": "Collaboration Communications Systems Engineer",
+      "level": "Associate"
+    },
+    {
+      "id": "gh-900",
+      "brand": "microsoft",
+      "family": "GitHub",
+      "code": "GH-900",
+      "title": "GitHub Foundations",
+      "level": "Fundamentals"
+    },
+    {
+      "id": "gh-100",
+      "brand": "microsoft",
+      "family": "GitHub",
+      "code": "GH-100",
+      "title": "GitHub Administration",
+      "level": "Associate"
+    },
+    {
+      "id": "gh-200",
+      "brand": "microsoft",
+      "family": "GitHub",
+      "code": "GH-200",
+      "title": "GitHub Actions",
+      "level": "Associate"
+    },
+    {
+      "id": "gh-300",
+      "brand": "microsoft",
+      "family": "GitHub",
+      "code": "GH-300",
+      "title": "GitHub Copilot",
+      "level": "Associate"
+    },
+    {
+      "id": "gh-500",
+      "brand": "microsoft",
+      "family": "GitHub",
+      "code": "GH-500",
+      "title": "GitHub Advanced Security",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-230",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-230",
+      "title": "Dynamics 365 Customer Service Functional Consultant",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-310",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-310",
+      "title": "Dynamics 365 Finance Functional Consultant",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-330",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-330",
+      "title": "Dynamics 365 Supply Chain Management Functional Consultant",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-500",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-500",
+      "title": "Dynamics 365 Finance and Operations Apps Developer",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-800",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-800",
+      "title": "Dynamics 365 Business Central Functional Consultant",
+      "level": "Associate"
+    },
+    {
+      "id": "mb-820",
+      "brand": "microsoft",
+      "family": "Dynamics 365",
+      "code": "MB-820",
+      "title": "Dynamics 365 Business Central Developer",
+      "level": "Associate"
+    },
+    {
+      "id": "togaf-ea-foundation",
+      "brand": "togaf",
+      "family": "TOGAF Standard, 10th Edition",
+      "code": "OGEA-101",
+      "title": "TOGAF Enterprise Architecture Foundation (Part 1)",
+      "level": "Foundation"
+    },
+    {
+      "id": "togaf-ea-practitioner",
+      "brand": "togaf",
+      "family": "TOGAF Standard, 10th Edition",
+      "code": "OGEA-102",
+      "title": "TOGAF Enterprise Architecture Practitioner (Part 2)",
+      "level": "Practitioner"
+    },
+    {
+      "id": "togaf-bafe",
+      "brand": "togaf",
+      "family": "TOGAF Standard, 10th Edition",
+      "code": "OGBA-101",
+      "title": "TOGAF Business Architecture Foundation",
+      "level": "Foundation"
+    },
+    {
+      "id": "int-cloud-engineer",
+      "brand": "interview",
+      "family": "Interviews",
+      "code": "INT-ENG",
+      "title": "Cloud Engineer Interview",
+      "level": "Interview",
+      "free": true
+    },
+    {
+      "id": "int-solution-architect",
+      "brand": "interview",
+      "family": "Interviews",
+      "code": "INT-ARC",
+      "title": "Solution Architect Interview",
+      "level": "Interview",
+      "free": true
+    },
+    {
+      "id": "int-ai-engineer",
+      "brand": "interview",
+      "family": "Interviews",
+      "code": "INT-AI",
+      "title": "AI Engineer Interview",
+      "level": "Interview",
+      "free": true
+    },
+    {
+      "id": "int-software-developer",
+      "brand": "interview",
+      "family": "Interviews",
+      "code": "INT-DEV",
+      "title": "Software Developer Interview",
+      "level": "Interview",
+      "free": true
+    }
   ]
 }
